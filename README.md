@@ -19,8 +19,8 @@ Catalog：
 
 # VMwareWorkstation 17
 * 17.5.0
- * https://download3.vmware.com/software/WKST-1750-WIN/VMware-workstation-full-17.5.0-22583795.exe
- * https://github.com/W-i-n-7/VMwareWorkstation/releases/download/17/VMware-workstation-full-17.5.0-22583795.exe
+  * https://download3.vmware.com/software/WKST-1750-WIN/VMware-workstation-full-17.5.0-22583795.exe
+  * https://github.com/W-i-n-7/VMwareWorkstation/releases/download/17/VMware-workstation-full-17.5.0-22583795.exe
 * 17.0.2
   * https://download3.vmware.com/software/WKST-1702-WIN/VMware-workstation-full-17.0.2-21581411.exe
   * https://github.com/W-i-n-7/VMwareWorkstation/releases/download/17/VMware-workstation-full-17.0.2-21581411.exe
@@ -32,7 +32,7 @@ Catalog：
   * https://github.com/W-i-n-7/VMwareWorkstation/releases/download/17/VMware-workstation-full-17.0.0-20800274.exe
 
 Registration codes: <br>
-[VMwareWorkstation-17-KeyGen.exe](https://github.com/W-i-n-7/VMwareWorkstation/releases/download/17.0/VMwareWorkstation-17-KeyGen.exe)  
+[VMwareWorkstation-17-KeyGen.exe](https://github.com/W-i-n-7/VMwareWorkstation/releases/download/17/VMwareWorkstation-17-KeyGen.exe)  
 NV6RH-2RH50-0JD79-0T9N2-A22M2  
 4V4RR-6VH8P-HJ488-1KCNK-CYH22  
 1C4TU-D81E1-MJ4L9-0V8Q4-CA0Q8  
@@ -72,7 +72,7 @@ HC4XR-28185-4J8X0-1U3QK-A3RMF
   * https://github.com/W-i-n-7/VMwareWorkstation/releases/download/16/VMware-workstation-full-16.0.0-16894299.exe
 
 Registration codes: <br>
-[VMwareWorkstation-16-KeyGen.exe](https://github.com/W-i-n-7/VMwareWorkstation/releases/download/16.0/VMwareWorkstation-16-KeyGen.exe)  
+[VMwareWorkstation-16-KeyGen.exe](https://github.com/W-i-n-7/VMwareWorkstation/releases/download/16/VMwareWorkstation-16-KeyGen.exe)  
 UV3TU-4AGD0-080WP-PPPNC-WARUA  
 YA7RA-F6Y46-H889Z-LZMXZ-WF8UA  
 ZV7HR-4YX17-M80EP-JDMQG-PF0RF  
@@ -118,7 +118,7 @@ UC3XK-8DD1J-089NP-MYPXT-QGU80
   * https://github.com/W-i-n-7/VMwareWorkstation/releases/download/15/VMware-workstation-full-15.0.0-10134415.exe
 
 Registration codes: <br>
-[VMwareWorkstation-15-KeyGen.exe](https://github.com/W-i-n-7/VMwareWorkstation/releases/download/15.0/VMwareWorkstation-15-KeyGen.exe)  
+[VMwareWorkstation-15-KeyGen.exe](https://github.com/W-i-n-7/VMwareWorkstation/releases/download/15/VMwareWorkstation-15-KeyGen.exe)  
 AY7DR-DCX83-48E2Y-WMPQG-MUR90  
 YA190-DMD1L-H8DPQ-DWQN9-YC8Y2  
 VG182-4XF4P-4889P-3ZWXG-XUUU2  
@@ -161,7 +161,7 @@ VZ3EH-4LG4Q-H81YQ-X7Y5G-Q7HF6
   * https://github.com/W-i-n-7/VMwareWorkstation/releases/download/14/VMware-workstation-full-14.0.0-6661328.exe
 
 Registration codes: <br>
-[VMwareWorkstation-14-KeyGen.exe](https://github.com/W-i-n-7/VMwareWorkstation/releases/download/14.0/VMwareWorkstation-14-KeyGen.exe)  
+[VMwareWorkstation-14-KeyGen.exe](https://github.com/W-i-n-7/VMwareWorkstation/releases/download/14/VMwareWorkstation-14-KeyGen.exe)  
 AZ78K-89GDP-H898Y-LGWEC-MP8V4  
 CA1T2-AZX80-H84RY-5QN7T-YZ0YD  
 YV1D8-FYY0K-H84FQ-55PXZ-QLRCF  
@@ -216,7 +216,7 @@ VA74K-0TDD7-H89PP-75PE9-P6HZ2
   * https://github.com/W-i-n-7/VMwareWorkstation/releases/download/12/VMware-workstation-full-12.0.0-2985596.exe
 
 Registration codes:  <br>
-[VMwareWorkstation-12-KeyGen.exe](https://github.com/W-i-n-7/VMwareWorkstation/releases/download/12.0/VMwareWorkstation-12-KeyGen.exe)  
+[VMwareWorkstation-12-KeyGen.exe](https://github.com/W-i-n-7/VMwareWorkstation/releases/download/12/VMwareWorkstation-12-KeyGen.exe)  
 YZ7R0-8FG42-H882Y-NGPGT-N2AG4  
 AU552-2HE8M-48EUZ-85NGC-NG8YD  
 FG7R8-0RG83-084QQ-QYYEZ-YA0C2  
@@ -247,7 +247,7 @@ ZY7R2-AMY17-488JP-FQXET-Q78E6
   * https://github.com/W-i-n-7/VMwareWorkstation/releases/download/11/VMware-workstation-full-11.0.0-2305329.exe
 
 Registration codes: <br>
-[VMwareWorkstation-11-KeyGen.exe](https://github.com/W-i-n-7/VMwareWorkstation/releases/download/11.0/VMwareWorkstation-11-KeyGen.exe)  
+[VMwareWorkstation-11-KeyGen.exe](https://github.com/W-i-n-7/VMwareWorkstation/releases/download/11/VMwareWorkstation-11-KeyGen.exe)  
 VF14R-2AE8L-48EUZ-1ENX9-PCKU4  
 ZZ348-6WD0M-H8DZY-16X5E-PG2T2  
 CZ3M0-6YF42-0896Z-KEMZT-Q32XA  
@@ -284,7 +284,7 @@ YY5DR-8MF17-0812Q-ENNXT-YAH88
   * https://github.com/W-i-n-7/VMwareWorkstation/releases/download/10/VMware-workstation-full-10.0.0-1295980.exe
 
 Registration codes:  <br>
-[VMwareWorkstation-10-KeyGen.exe](https://github.com/W-i-n-7/VMwareWorkstation/releases/download/10.0/VMwareWorkstation-10-KeyGen.exe)  
+[VMwareWorkstation-10-KeyGen.exe](https://github.com/W-i-n-7/VMwareWorkstation/releases/download/10/VMwareWorkstation-10-KeyGen.exe)  
 0F4JH-80397-DZZ70-W00NK-1AC7Z  
 MF0Y4-8R05K-PZNN0-VH8N2-3AA2C  
 NZ43T-8D1E5-MZGV8-RU05H-3A0K5  
@@ -312,7 +312,7 @@ HU4ZJ-F9285-2ZD21-VJ1ZH-C2W18
   * https://github.com/W-i-n-7/VMwareWorkstation/releases/download/9/VMware-workstation-full-9.0.0-812388.exe
 
 Registration codes: <br>
-[VMwareWorkstation-09-KeyGen.exe](https://github.com/W-i-n-7/VMwareWorkstation/releases/download/9.0/VMwareWorkstation-09-KeyGen.exe)   
+[VMwareWorkstation-09-KeyGen.exe](https://github.com/W-i-n-7/VMwareWorkstation/releases/download/9/VMwareWorkstation-09-KeyGen.exe)   
 0V4J3-82K44-YZFD1-4107H-93RQM  
 MF2MK-28KE7-FZTQ9-JACNM-2C8QH  
 5A0PH-AY103-NZ3C1-ML0N4-02DME  
